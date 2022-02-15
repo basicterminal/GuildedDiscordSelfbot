@@ -1,0 +1,9 @@
+{
+  "discord": {
+           "token": ""
+  }, "guilded": {
+           "email"   : "",
+           "password": "",
+           "referrer": ""
+  }
+}
